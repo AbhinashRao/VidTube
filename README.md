@@ -101,7 +101,3 @@ mern-stack, react, nodejs, express, mongodb, jwt-auth, video-sharing, youtube-cl
 Abhinash Rao Madikonda
 📧 abhinashrao28@gmail.com
 🔗 GitHub | LinkedIn
-
-python
-Copy
-Edit
