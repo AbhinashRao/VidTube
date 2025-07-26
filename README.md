@@ -25,15 +25,14 @@ VidTube is a full-stack video sharing platform inspired by YouTube. Users can up
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose  
 - **Authentication**: JWT (JSON Web Tokens)  
 - **DevOps**: Docker, Docker Compose, GitHub Actions  
-
 ---
 
 ## 📁 Folder Structure
 
 VidTube/
-├── client/ # React frontend
+├── client/ 
 │ └── src/
-├── server/ # Express backend
+├── server/
 │ ├── controllers/
 │ ├── models/
 │ ├── routes/
